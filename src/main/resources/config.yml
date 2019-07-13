@@ -1,0 +1,8 @@
+ConfigVersion: 2
+
+# Can be toggled to off if it is causing issues
+Enabled: true
+# Can be used to allow certain usernames entry regardless of the result from the MCLeaks API
+Whitelist:
+  - "dart2112"
+  - "DNAblue2112"
